@@ -1,16 +1,16 @@
 # 🚲 Bike Lane Priorities WIP
 
 ## Top 10 projects:
-- 1. Howard from 5th to 2nd
-- 2. Folsom from 4th to 2nd
-- 3. Howard from 2nd to Embarcadero
-- 4. Folsom from 2nd (Essex) to Embarcadero
-- 5. ?
-- 6. ?
-- 7. ? 
-- 8. ?
-- 9. ?
-- 10. ?
+1. Howard from 5th to 2nd
+2. Folsom from 4th to 2nd
+3. Howard from 2nd to Embarcadero
+4. Folsom from 2nd (Essex) to Embarcadero
+5. ?
+6. ?
+7. ? 
+8. ?
+9. ?
+10. ?
 
 What is this list?
 This is an attempt to force rank which bicycle infrastructure improvements should be implemented in San Francisco.
