@@ -12,10 +12,10 @@
 9. ?
 10. ?
 
-What is this list?
+## What is this list?
 This is an attempt to force rank which bicycle infrastructure improvements should be implemented in San Francisco.
 
-Project Prioritization Rubric:
+## Project Prioritization Rubric:
 * Feasibility - Level of effort for (protected) relative to current conditions (Includes: removal of parking, thru lanes, physical constraints (road width, utilities), transit lanes and tracks, overhead wires
 * Data - Injury (collision, fatality), ridership, ratio (ie low ridership::high injury)
 * Network Connection - System Utility
