@@ -1,7 +1,7 @@
 # 🚲 2019 SF Bike Lane Priorities WIP
 
 ## Forced rank top 10:
-1. Howard (2nd to 5th)
+1. [Howard (2nd to 5th)](https://github.com/kfarr/bike-lane-priorities/tree/master/howard-2nd-to-5th)
 2. 2nd (Townsend to Market)
 3. Folsom (4th to 2nd)
 4. Valencia (20th to Cesar Chavez)
