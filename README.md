@@ -18,20 +18,22 @@ This is an attempt to force rank which bicycle infrastructure improvements shoul
 ## Why this list?
 There are many supporters of bike infrastructure improvement, but not all align on which specific projects are important relative to each other.
 
-This can lead to "squeaky wheel syndrome" where a loud minority get attention, reactionary improvements always following a tragedy, and generally low productivity as efforts are scattered and resources are not unified.
-
-Further, there is no forum for stakeholders outside of City agencies to see technical details of projects and a "source of truth" of current and proposed conditions.
+This can lead to "squeaky wheel syndrome" where a loud minority get attention, reactionary improvements always following a tragedy, and generally low productivity as efforts are scattered and resources are not unified. Further, there is no forum for stakeholders outside of City agencies to see technical details of projects and a "source of truth" of current and proposed conditions.
 
 Instead, this approach attempts to use a simple source project prioritization rubric which is open and can change based on community discussion.
 
 ## Project Prioritization Rubric:
-
 * Feasibility - Level of effort for (protected) relative to current conditions (Includes: removal of parking, thru lanes, physical constraints, road width, utilities, transit lanes and tracks, overhead wires)
 * Data - Injury (collision, fatality), ridership, ratio (ie low ridership::high injury), user surveys or votes, modeling (estimating future ridership)
 * Closing the Gaps - Network Connection (System Utility)
 
 ## How do you think bike lane projects should be prioritized in San Francisco?
 Open a new issue: https://github.com/kfarr/bike-lane-priorities/issues
+
+## What is done? What allows an item to be removed from the list?
+It must be a useable fully protected bike path. This is most likely satisfied with a sufficiently wide bike lane buffered by parking, continuous safe-hit style delineators, or otherwise permanent physical barriers such as concrete or planters.
+
+Projects that are in progress but incomplete remain on the list. It is not done until there are no cars parked on the lane and it provides a continuous safe travel path for people on bicycles on the duration of the project scope.
 
 ## Other project contenders
 - Harrison (2nd to 5th)
