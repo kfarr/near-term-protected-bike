@@ -1,10 +1,10 @@
 # Howard (2nd to 5th)
 
 ## Current Conditions
-- Streetmaps satellite view (corridor)
-- Block by block - streetmap
-- Block by block - streemix (representative)
+- Corridor view - Map and streetmaps / satellite view
+- Block by block - satellite streetmap
 - Block by block - striping drawing (existing)
+- Block by block - streetmix (representative)
 
 ## Proposed Changes
 
