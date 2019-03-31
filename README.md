@@ -16,11 +16,16 @@
 This is an attempt to force rank which bicycle infrastructure improvements should be implemented in San Francisco.
 
 ## Why this list?
-There are many supporters of bike infrastructure improvement, but not all align on which specific projects are important relative to each other.
+There are many supporters of bike infrastructure improvement but not all align on which specific projects are important relative to each other.
 
-This can lead to "squeaky wheel syndrome" where a loud minority get attention, reactionary improvements always following a tragedy, and generally low productivity as efforts are scattered and resources are not unified. Further, there is no forum for stakeholders outside of City agencies to see technical details of projects and a "source of truth" of current and proposed conditions.
+This misalignment can impact infrastructure building in a few ways:
+- Leads to "squeaky wheel syndrome" where a loud minority get attention
+- Improvements are often reactionary related to specific high-profile incidents instead of proactive
+- General low productivity as efforts are splintered on different projects by each city agency, advocacy organization and even the general public.
 
-Instead, this approach attempts to use a simple source project prioritization rubric which is open and can change based on community discussion.
+Further, there is no forum for stakeholders outside of City agencies to see technical details of projects and a "source of truth" of current and proposed conditions.
+
+Instead, this approach attempts to use a simple rubric to prioritize projects which is open and can change based on community discussion. This approach also attempts to be a central repository for all persons (whether or not affiliated with the City) to update factual information of various projects based on current conditions and proposed new projects.
 
 ## Project Prioritization Rubric:
 * Feasibility - Level of effort for (protected) relative to current conditions (Includes: removal of parking, thru lanes, physical constraints, road width, utilities, transit lanes and tracks, overhead wires)
