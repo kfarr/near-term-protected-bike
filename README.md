@@ -36,7 +36,7 @@ It must be a useable fully protected bike path. This is most likely satisfied wi
 Projects that are in progress but incomplete remain on the list. It is not done until there are no cars parked on the lane and it provides a continuous safe travel path for people on bicycles on the duration of the project scope.
 
 ## Other project contenders
-- Harrison (2nd to 5th)
+- [Harrison (2nd to 5th)](https://github.com/kfarr/bike-lane-priorities/tree/master/harrison-2nd-to-5th)
 - Harrison (5th to 11th)
 - Harrison (11th to 16th)
 - Townsend (2nd to Embarcadero)
