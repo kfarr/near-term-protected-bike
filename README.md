@@ -1,7 +1,21 @@
 # 🚲 2019 SF Near-Term Protected Bike Network
 An open source working sheet attempting to prioritize bicycle facility improvements in San Francisco in order to focus community and City efforts on quickly delivering small projects of a few blocks at a time.
 
-## Forced rank top 10:
+## Forced rank top 10 "routes" (April 27):
+1. Valencia
+2. 2nd
+3. Howard
+4. Folsom
+5. Polk
+6. Embarcadero
+7. 5th
+8. Golden Gate Park
+9. 8th
+10. Townsend
+
+Last updated April 27 based on informal twitter survey and rubric defined below. [Source data.](https://docs.google.com/spreadsheets/d/1DU1aKr5Ow7ywOJoXCLVYoEESQD2hKLyPETXL0_bvVk0/edit)
+
+## Forced rank top 10 "projects" (April 2)
 1. [Howard (2nd to 5th)](https://github.com/kfarr/bike-lane-priorities/tree/master/howard-2nd-to-5th)
 2. 2nd (Townsend to Market)
 3. Folsom (4th to 2nd)
@@ -12,6 +26,8 @@ An open source working sheet attempting to prioritize bicycle facility improveme
 8. 11th (Market to Division)
 9. Townsend (5th to 2nd)
 10. Townsend (7th to 8th)
+
+This list arbitrarily ranked by Kieran as a strawman used for community feedback.
 
 ## What is this list?
 This is an attempt to force rank which bicycle infrastructure improvements should be implemented in San Francisco.
@@ -40,6 +56,10 @@ Open a new issue: https://github.com/kfarr/bike-lane-priorities/issues
 It must be a useable fully protected bike path. This is most likely satisfied with a sufficiently wide bike lane buffered by parking, continuous safe-hit style delineators, or otherwise permanent physical barriers such as concrete or planters.
 
 Projects that are in progress but incomplete remain on the list. It is not done until there are no cars parked on the lane and it provides a continuous safe travel path for people on bicycles on the duration of the project scope.
+
+## Terms as used in this document
+route - an entire street
+project - a subset of a route defined as the space between 2 blocks (for example: 3rd street between howard and folsom)
 
 ## Other project contenders
 - [Harrison (2nd to 5th)](https://github.com/kfarr/bike-lane-priorities/tree/master/harrison-2nd-to-5th)
