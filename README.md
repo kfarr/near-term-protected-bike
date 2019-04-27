@@ -13,7 +13,7 @@ An open source working sheet attempting to prioritize bicycle facility improveme
 9. 8th
 10. Townsend
 
-Last updated April 27 based on informal twitter survey and rubric defined below. [Source data.](https://docs.google.com/spreadsheets/d/1DU1aKr5Ow7ywOJoXCLVYoEESQD2hKLyPETXL0_bvVk0/edit)
+Last updated April 27 based on [informal twitter survey](https://twitter.com/kfarr/status/1113189980275245056) and rubric defined below. [Source data.](https://docs.google.com/spreadsheets/d/1DU1aKr5Ow7ywOJoXCLVYoEESQD2hKLyPETXL0_bvVk0/edit)
 
 ## Forced rank top 10 "routes" interlaced with "projects" (April 27):
 1. Valencia
