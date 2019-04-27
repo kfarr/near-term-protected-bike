@@ -1,4 +1,5 @@
-# 🚲 2019 SF Bike Lane Priorities WIP
+# 🚲 2019 SF Safer Bike Route Priorities
+An open source working sheet attempting to prioritize bicycle facility improvements in San Francisco in order to focus community and City efforts on quickly delivering small projects of a few blocks at a time.
 
 ## Forced rank top 10:
 1. [Howard (2nd to 5th)](https://github.com/kfarr/bike-lane-priorities/tree/master/howard-2nd-to-5th)
