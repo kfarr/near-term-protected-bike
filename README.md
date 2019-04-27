@@ -18,6 +18,7 @@ Last updated April 27 based on [informal twitter survey](https://twitter.com/kfa
 ## Forced rank top 10 "routes" interlaced with "projects" (April 27):
 1. Valencia
 - a. Valencia (19th to Cesar Chavez)
+- b. Valencia (15th to 19th)
 2. 2nd
 - a. 2nd (Townsend to Market)
 3. Howard
