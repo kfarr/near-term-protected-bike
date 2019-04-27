@@ -1,4 +1,4 @@
-# 🚲 2019 SF Safer Bike Route Priorities
+# 🚲 2019 SF Near-Term Protected Bike Network
 An open source working sheet attempting to prioritize bicycle facility improvements in San Francisco in order to focus community and City efforts on quickly delivering small projects of a few blocks at a time.
 
 ## Forced rank top 10:
