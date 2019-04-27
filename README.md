@@ -15,19 +15,30 @@ An open source working sheet attempting to prioritize bicycle facility improveme
 
 Last updated April 27 based on informal twitter survey and rubric defined below. [Source data.](https://docs.google.com/spreadsheets/d/1DU1aKr5Ow7ywOJoXCLVYoEESQD2hKLyPETXL0_bvVk0/edit)
 
-## Forced rank top 10 "projects" (April 2)
-1. [Howard (2nd to 5th)](https://github.com/kfarr/bike-lane-priorities/tree/master/howard-2nd-to-5th)
-2. 2nd (Townsend to Market)
-3. Folsom (4th to 2nd)
-4. Valencia (20th to Cesar Chavez)
-5. 5th Street (Townsend to Market)
-6. Howard (2nd to Embarcadero)
-7. Folsom (2nd / Essex to Embarcadero)
-8. 11th (Market to Division)
-9. Townsend (5th to 2nd)
-10. Townsend (7th to 8th)
+## Forced rank top 10 "routes" interlaced with "projects" (April 27):
+1. Valencia
+- a. Valencia (19th to Cesar Chavez)
+2. 2nd
+- a. 2nd (Townsend to Market)
+3. Howard
+- a. [Howard (2nd to 5th)](https://github.com/kfarr/bike-lane-priorities/tree/master/howard-2nd-to-5th)
+- b. Howard (2nd to Embarcadero)
+4. Folsom
+- a. Folsom (4th to 2nd)
+- b. Folsom (2nd / Essex to Embarcadero)
+- c. Folsom (13th to Cesar Chavez)
+5. Polk
+6. Embarcadero
+7. 5th
+- a. 5th Street (Townsend to Market)
+8. Golden Gate Park
+9. 8th
+10. Townsend
+- a. Townsend (5th to 2nd)
+- b. Townsend (7th to 8th)
+- c. Townsend (2nd to Embarcadero)
 
-This list arbitrarily ranked by Kieran as a strawman used for community feedback.
+Suggested projects arbitrarily created by Kieran as a strawman used for community feedback, however the intention is purposefully small segments that can be quickly designed and implemented in the near-term.
 
 ## What is this list?
 This is an attempt to force rank which bicycle infrastructure improvements should be implemented in San Francisco.
@@ -62,6 +73,7 @@ route - an entire street
 project - a subset of a route defined as the space between 2 blocks (for example: 3rd street between howard and folsom)
 
 ## Other project contenders
+- 11th (Market to Division)
 - [Harrison (2nd to 5th)](https://github.com/kfarr/bike-lane-priorities/tree/master/harrison-2nd-to-5th)
 - Harrison (5th to 11th)
 - Harrison (11th to 16th)
