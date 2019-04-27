@@ -28,7 +28,7 @@ Further, there is no forum for stakeholders outside of City agencies to see tech
 Instead, this approach attempts to use a simple rubric to prioritize projects which is open and can change based on community discussion. This approach also attempts to be a central repository for all persons (whether or not affiliated with the City) to update factual information of various projects based on current conditions and proposed new projects.
 
 ## Project Prioritization Rubric:
-* Feasibility - Level of effort for (protected) relative to current conditions (Includes: removal of parking, thru lanes, physical constraints, road width, utilities, transit lanes and tracks, overhead wires)
+* Feasibility - Level of effort for (protected) relative to current conditions (Includes: removal of parking, thru lanes, physical constraints, road width, utilities, transit lanes and tracks, overhead wires.) Projects may rank more favoribly as being feasible if they are in progress or otherwise have a quick path to completion. 
 * Data - Injury (collision, fatality), ridership, ratio (ie low ridership::high injury), user surveys or votes, modeling (estimating future ridership)
 * Closing the Gaps - Network Connection (System Utility)
 
