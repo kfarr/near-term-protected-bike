@@ -95,3 +95,6 @@ project - a subset of a route defined as the space between 2 blocks (for example
 - Bryant (which segments?)
 
 Add your own: suggest a change through github, open an issue or contact me @kfarr on twitter
+
+## For more reading
+For an example of a high quality bike plan, check out [Oakland's 2019 Bike Plan](https://www.letsbikeoakland.com/draft-plan/#/)!
